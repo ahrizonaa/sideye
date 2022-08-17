@@ -1,0 +1,7 @@
+{
+  "name": "sideye",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
